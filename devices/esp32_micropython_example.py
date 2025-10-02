@@ -1,4 +1,4 @@
-# Run on ESP32 with MicroPython and umqtt.simple
+# Run on ESP32 with MicroPython and a MQTT client library (umqtt.simple)
 
 import network
 import time
