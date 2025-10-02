@@ -1,5 +1,4 @@
 # edge-smart-home-hub
-AI-powered smart home automation platform
 Lightweight on-premise smart home hub for Indian households.
 
 
